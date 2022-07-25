@@ -11,7 +11,7 @@ https://github.com/kottans/mock-repo/pull/716
 ## Linux CLI, and HTTP
 ---
 
-[[images/Screenshot_97.png]]
+[[/images/Screenshot_97.png]]
 [[images/Screenshot_99.png]]
 [[images/Screenshot_100.png]]
 [[images/Screenshot_101.png]]
